@@ -12,7 +12,7 @@ body {
 
 img {
   width: 600px;
-  }
+}
 
 button {
   font-family: Roboto, sans-serif;
@@ -47,7 +47,7 @@ input {
   background-color: #eeeeee;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
@@ -56,14 +56,15 @@ a {
   color: black;
 }
 
-.left-links{
+.left-links {
   display: flex;
   justify-content: space-around;
 }
 
-.right-links{
+.right-links {
   display: flex;
-  justify-content: space-between;
 }
 
-
+a {
+  padding: 5px;
+}
